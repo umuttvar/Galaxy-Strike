@@ -40,21 +40,22 @@ Some in-game moments:
 
 ### 🟢 Start
 
-![Start](Screenshots/start.png)
+![Start](ScreenShots/start.png)
 The game’s starting screen. The player’s ship is ready, and the UI elements are positioned on the screen.
 
 ### 💥 Crash
 
-![Crash](Screenshots/crash.png)
+![Crash](ScreenShots/crash.png)
 When the player’s ship collides with an enemy or a terrain object, the game ends. Crash animation and restart mechanics are triggered.
 
 ### 🚀 Enemies
 
-![Enemies](Screenshots/enemies.png)
+![Enemies](ScreenShots/enemies.png)
 Enemy ships appearing on the route. Each has different hitpoints, and destroying them rewards the player with score points.
 
 ### 🔫 Shooting
 
-![Shooting](Screenshots/shooting.png)
+![Shooting](ScreenShots/shooting.png)
 Lasers are fired in the direction of the crosshair. Thanks to quaternion calculations, projectiles accurately follow the aim point.
+
 
